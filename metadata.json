@@ -1,0 +1,6 @@
+{
+  "name": "Fisio Life — Pilates e Fisioterapia",
+  "description": "Clínica de Pilates Clínico, Fisioterapia Ortopédica e Cardiopulmonar em Formiga – MG. Há 9 anos oferecendo sessões individuais e atendimento acolhedor.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
